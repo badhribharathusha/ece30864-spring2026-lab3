@@ -6,3 +6,5 @@
 (c) What are 3 types of meetings that happen during a sprint cycle? List at least 2 points on what needs to be discussed during each of these meetings.
     Sprint planning is where you define sprint goals and select backlog items and this takes place in the beginning of the sprint. The Daily Standup is a daily meeting where you discuss what each team member does for the day and their plans for development and change up items if needed. Finally the sprint review is at the end of the sprint cycle where you display your developed items and you get feedback on it. 
     
+(d) Differentiate between Epic, Story, Bug, and Task issue types in JIRA
+Epics are a large body of work that contain a lot of other things within and can last multiple sprints. A story describes a specific feature usually from an end-user perspective and is targeted to be finished within a sprint. A task is a to-do for technical work necessary for development. Finally a bug is issue in functionality that needs fixing. 
